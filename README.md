@@ -2,7 +2,7 @@
 Model used in the article "Consequences of the multichannel structure of soil food webs on ecosystem functioning" 
 
 # Code of the model
-main.R: code running parallelised simulations
+main.R: code running parallelised simulations 
 internal_functions_R.R: functions encoding the model
 parameter_generator.R: code generating the parameter tables feeding the model
 
